@@ -1,9 +1,5 @@
 body {
     background: #fffad4;
-    margin-top: 6rem;
-    margin-bottom: 6rem;
-    margin-left: 12rem;
-    margin-right: 12rem;
 }
 
 a:link {
@@ -33,9 +29,9 @@ a.bigtext {
 .title{
     display: flex;
     justify-content: center;
+    text-align: center;
     color:#27333f;
     font-family: TrashHand;
-    padding-right: 1.5rem;
 }
 
 
@@ -110,15 +106,14 @@ p{
 
 .navbar ul li{
     list-style: none;
-    display: inline-block;
-    margin-right: 0 auto;
+    display: inline-block; 
     padding-right: 1.5rem;
 }
 
 .navbar{
   display: flex;
   justify-content: center;
-  text-decoration: none;
+  text-align: center;
   font-family: "Helvetica";
   font-size: 1.1rem;
   
