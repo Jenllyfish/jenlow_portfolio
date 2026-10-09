@@ -120,8 +120,8 @@ p{
 }
 
 img {
-  float: left;
-  margin: 30px;
+  float: right;
+  margin: 20px;
 }
 
 .container{
@@ -167,25 +167,25 @@ margin-top: 80px;}
 
  .four.columns                  
  { width: 30%;
-margin-left: 130px;}
+margin-left: 190px;
+margin-right: -50px}
 
 .six.columns
 { width: 25%;
-margin-left: 160px;}
+margin-left: 120px;}
 
  .eight.columns                  
- { width: 45%;
-margin-top: -50px;
+ { width: 20%;
+margin-top: -60px;
 margin-left: 70px;}
 
 
   }
 
   .u-full-width {
-  width: 100%;
-  box-sizing: border-box; }
+  width: 80%;}
 .u-max-full-width {
-  max-width: 80%;
+  max-width: 100%;
   box-sizing: border-box; }
 .u-pull-right {
   float: right; }
